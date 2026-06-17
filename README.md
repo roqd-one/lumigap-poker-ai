@@ -33,9 +33,8 @@ LumiGap is a macOS product built for poker research and structured analysis. It 
 ## Links
 
 - Website: https://lumigap.com/en
-- Portfolio page: https://roqd.one/p/lumigap
+- Portfolio page: https://stargap.one/products/lumigap
 - GitHub repo: https://github.com/roqd-one/lumigap-poker-ai
-- Main portfolio: https://roqd.one/
 - GitHub profile: https://github.com/roqd-one
 
 ## Suggested GitHub topics
@@ -67,7 +66,5 @@ LumiGap is actively developed, but the application source code is private.
 - [PostFox](https://github.com/roqd-one/postfox)
 - [AlcoList](https://github.com/roqd-one/alcolist)
 - [NowAgo](https://github.com/roqd-one/nowago)
-- [OrbiDeck](https://github.com/roqd-one/orbideck)
+- [StoreProof](https://github.com/roqd-one/storeproof)
 
----
-Part of the public product portfolio at https://roqd.one/
