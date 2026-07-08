@@ -32,7 +32,7 @@ LumiGap is a macOS product built for poker research and structured analysis. It 
 
 ## Links
 
-- Website: https://lumigap.com/en/igp
+- Website: https://lumigap.com/igp
 - Facebook: https://www.facebook.com/lumigap
 - LinkedIn: https://www.linkedin.com/company/lumigap/
 - X: https://x.com/stargap_one
